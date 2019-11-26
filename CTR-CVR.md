@@ -4,8 +4,8 @@ Click-trough Rate (CTR) and Conversion Rate (CVR) prediction, or saying user res
 
 1. From traditional ML models to deep learning models
 2. Better utilize features: 
-* * Features interactions: w/o feature engineering
-* * Weighted features or their embeddings
+    * Features interactions: w/o feature engineering
+    * Weighted features or their embeddings
 
 ## Feature interactions
 #### Factorization Machine (FM)
