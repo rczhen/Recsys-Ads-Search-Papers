@@ -7,5 +7,7 @@ Through my learning, there are wide range of online resources, from research pap
 This repository is still in progress. The tentative topics to be cover are: 
 
 * CTR/CVR prediction (User response prediction)
-* 
+* Learning to rank
+* Great courses, tutorials and other summarizing materials
+* to be continued
 
