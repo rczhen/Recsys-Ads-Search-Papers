@@ -17,6 +17,16 @@ Click-trough Rate (CTR) and Conversion Rate (CVR) prediction, or saying user res
 * [Facebook GBDT + LR 2014](https://quinonero.net/Publications/predicting-clicks-facebook.pdf): 
 * [Google Wide and Deep 2016](https://arxiv.org/pdf/1606.07792.pdf): 
 
+#### Product-based
+* [Product-based Neural Network 2016](https://arxiv.org/pdf/1611.00144.pdf): 
+
+## Feature (Embedding) Weighted
+* [Alibaba Deep Interest Network 2017](https://arxiv.org/pdf/1706.06978.pdf):
+* [Sina FiBiNET 2019](https://arxiv.org/pdf/1905.09433.pdf):
+
 ## Multi Task
 * [Alibaba ESSM 2018](https://arxiv.org/pdf/1804.07931.pdf): 
 * [Alibaba ESSM2 2019](https://arxiv.org/pdf/1910.07099.pdf): 
+
+## Traditional ML Models Methods
+* [Alibaba Multi Logistic Regression 2017](https://arxiv.org/pdf/1704.05194.pdf):
