@@ -5,7 +5,7 @@ Click-trough Rate (CTR) and Conversion Rate (CVR) prediction, or saying user res
 1. From traditional ML models (Logistic Regression, Tree, Factorization Machine etc.) to deep learning models
 2. Better utilize features: 
     * Explore useful features
-    * Perform features interactions: w/o feature engineering
+    * Perform features interactions: Towards altomatic feature interaction extraction and higher-order feature interaction. Although feature engineering and lower-order feature interactions are necessary sometimes. 
     * Weighted features or their embeddings
 
 ## Feature interactions
