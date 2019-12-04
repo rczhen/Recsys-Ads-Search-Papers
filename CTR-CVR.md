@@ -2,9 +2,10 @@
 
 Click-trough Rate (CTR) and Conversion Rate (CVR) prediction, or saying user response prediction, have been a principal problem in recommender system, online advertising and web search. The two main threads are: 
 
-1. From traditional ML models to deep learning models
+1. From traditional ML models (Logistic Regression, Tree, Factorization Machine etc.) to deep learning models
 2. Better utilize features: 
-    * Features interactions: w/o feature engineering
+    * Explore useful features
+    * Perform features interactions: w/o feature engineering
     * Weighted features or their embeddings
 
 ## Feature interactions
