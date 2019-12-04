@@ -13,6 +13,7 @@ Click-trough Rate (CTR) and Conversion Rate (CVR) prediction, or saying user res
 * [FM 2010](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf): 
 * [FFM 2016](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf): 
 * [DeepFM 2017](https://arxiv.org/pdf/1703.04247.pdf): 
+* [xDeepFM 2018](https://arxiv.org/pdf/1803.05170.pdf): 
 
 #### Tree Models
 * [Facebook GBDT + LR 2014](https://quinonero.net/Publications/predicting-clicks-facebook.pdf): 
@@ -20,6 +21,7 @@ Click-trough Rate (CTR) and Conversion Rate (CVR) prediction, or saying user res
 
 #### Product-based
 * [Product-based Neural Network 2016](https://arxiv.org/pdf/1611.00144.pdf): 
+* [Deep & Cross Network 2017](https://arxiv.org/pdf/1708.05123.pdf): 
 
 ## Feature (Embedding) Weighted
 * [Alibaba Deep Interest Network 2017](https://arxiv.org/pdf/1706.06978.pdf):
