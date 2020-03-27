@@ -43,3 +43,6 @@ Facebook](https://quinonero.net/Publications/predicting-clicks-facebook.pdf).
 
 ## 4. Traditional ML Models Methods
 * [Alibaba Multi Logistic Regression 2017](https://arxiv.org/pdf/1704.05194.pdf):
+
+## 5. Exploitation and Exploration
+* [Exploitation and Exploration in a Performance based Contextual Advertising System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.8373&rep=rep1&type=pdf)
